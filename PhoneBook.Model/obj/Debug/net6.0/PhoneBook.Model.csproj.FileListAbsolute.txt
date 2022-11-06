@@ -1,0 +1,12 @@
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\bin\Debug\net6.0\PhoneBook.Model.deps.json
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\bin\Debug\net6.0\PhoneBook.Model.dll
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\bin\Debug\net6.0\PhoneBook.Model.pdb
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\PhoneBook.Model.csproj.AssemblyReference.cache
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\PhoneBook.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\PhoneBook.Model.AssemblyInfoInputs.cache
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\PhoneBook.Model.AssemblyInfo.cs
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\PhoneBook.Model.csproj.CoreCompileInputs.cache
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\PhoneBook.Model.dll
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\refint\PhoneBook.Model.dll
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\PhoneBook.Model.pdb
+D:\kosar full stack\full-advanced\Projects\PhoneBook\PhoneBook.Model\obj\Debug\net6.0\ref\PhoneBook.Model.dll

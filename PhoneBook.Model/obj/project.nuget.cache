@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+IKiPKNBaVJ7Z0F8sXuY2zAZvbxGywUklyWEMg3XnXPLuZccKVdj0tiBqYRHSo2lrfpxcsDi/sAcirXe12k4aw==",
+  "success": true,
+  "projectFilePath": "D:\\kosar full stack\\full-advanced\\Projects\\PhoneBook\\PhoneBook.Model\\PhoneBook.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KOSAR\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
